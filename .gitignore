@@ -1,0 +1,29 @@
+# Configuración y credenciales locales
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+*.pem
+*.key
+credentials*.json
+client_secret*.json
+service-account*.json
+
+# Archivos generados, cachés y datos locales
+node_modules/
+dist/
+.wrangler/
+.openai/
+coverage/
+*.log
+*.zip
+*.tar.gz
+playlist-bridge-progreso*.json
+.DS_Store
+Thumbs.db
+
+# Ajustes personales del editor
+.vscode/
+.idea/
