@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Playlist Bridge</title><desc id="desc">Transfiere tus playlists públicas de Spotify a YouTube Music.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#faf9fc"/><stop offset="1" stop-color="#f0edf5"/></linearGradient><linearGradient id="red" x2="1" y2="1"><stop stop-color="#f45360"/><stop offset="1" stop-color="#df3242"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="358" rx="26" fill="url(#bg)" stroke="#e9e4ef"/>
+<g font-family="Arial, Helvetica, sans-serif"><rect x="52" y="43" width="38" height="38" rx="10" fill="url(#red)"/><path d="M64 68 78 54m-11 0h11v11" stroke="white" stroke-width="2.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="104" y="68" font-size="14" font-weight="700" letter-spacing="3" fill="#b66b78">SPOTIFY → YOUTUBE MUSIC</text>
+<text x="51" y="153" font-size="66" font-weight="700" letter-spacing="-3.5" fill="#292332">Playlist</text><text x="51" y="224" font-size="66" font-weight="700" letter-spacing="-3.5" fill="#ed3f4c">Bridge.</text>
+<text x="55" y="271" font-size="18" fill="#87758f">Pega una playlist. Revisa las versiones. Guárdala.</text>
+<text x="55" y="313" font-size="11" font-weight="700" letter-spacing="2" fill="#aa99b4">JAVASCRIPT · GOOGLE OAUTH · CLOUDFLARE WORKERS</text>
+<g transform="translate(745 80)"><rect width="160" height="180" rx="22" fill="#fff" stroke="#e7e0ec"/><circle cx="80" cy="69" r="31" fill="#e9f6ee"/><path d="M60 65c14-7 27-6 41 1m-38 9c12-6 23-5 34 1m-31 8c10-4 18-3 26 1" stroke="#52a97b" stroke-width="3" fill="none" stroke-linecap="round"/><text x="80" y="128" text-anchor="middle" font-size="18" font-weight="700" fill="#4b4154">Spotify</text><text x="80" y="151" text-anchor="middle" font-size="12" fill="#9c8ca7">Playlist pública</text></g>
+<path d="M927 169h65m-9-9 9 9-9 9" fill="none" stroke="#bfabbf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(1015 80)"><rect width="211" height="180" rx="22" fill="#fff" stroke="#e7e0ec"/><circle cx="105" cy="69" r="31" fill="#fff0f1"/><circle cx="105" cy="69" r="20" fill="none" stroke="#ef5864" stroke-width="2"/><path d="m101 59 15 10-15 10Z" fill="#ef5864"/><text x="105" y="128" text-anchor="middle" font-size="18" font-weight="700" fill="#4b4154">YouTube Music</text><text x="105" y="151" text-anchor="middle" font-size="12" fill="#9c8ca7">Tu biblioteca</text></g>
+</g></svg>

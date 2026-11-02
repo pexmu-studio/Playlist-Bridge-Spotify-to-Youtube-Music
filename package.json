@@ -1,0 +1,14 @@
+{
+  "name": "playlist-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Transfiere canciones de playlists públicas de Spotify a YouTube Music mediante OAuth.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/build.mjs && node server.mjs",
+    "test": "node --test",
+    "check:secrets": "node scripts/check-secrets.mjs"
+  }
+}

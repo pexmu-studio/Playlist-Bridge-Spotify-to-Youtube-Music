@@ -1,0 +1,6 @@
+{
+  "name": "playlist-bridge",
+  "main": "dist/index.js",
+  "compatibility_date": "2026-11-02",
+  "build": { "command": "node scripts/build.mjs" }
+}
